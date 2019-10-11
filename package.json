@@ -1,8 +1,8 @@
 {
-  "name": "math-lib",
+  "name": "math-lib-bqx",
   "version": "1.0.0",
   "description": "测试",
-  "main": "index.js",
+  "main": "./dist/library.js",
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
